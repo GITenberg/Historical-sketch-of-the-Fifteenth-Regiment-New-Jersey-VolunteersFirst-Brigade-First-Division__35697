@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42027'
     url: http://www.gutenberg.org/2009/agents/42027
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35697#Historical-sketch-of-the-Fifteenth-Regiment-New-Jersey-VolunteersFirst-Brigade-First-Division_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2011-03-27'
 gutenberg_type: Text
